@@ -27,7 +27,7 @@
               <transformers>
                 <transformer>
                   <manifestEntries>
-                    <Premain-Class>com.xiudongxu.common.agent.Main</Premain-Class>
+                    <Premain-Class>com.xiudongxu.common.agentDemo.Main</Premain-Class>
                   </manifestEntries>
                 </transformer>
               </transformers>
